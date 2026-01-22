@@ -4,3 +4,6 @@ docker compose up --build
 
 # содержимое
 10 компаний, у organisation_id = 1 - 4 уровня вложенности в бд
+
+# env
+я убрал из git ignore и добавил свой .env, так что, ничего не нужно
