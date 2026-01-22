@@ -7,3 +7,4 @@ docker compose up --build
 
 # env
 я убрал из git ignore и добавил свой .env, так что, ничего не нужно
+API_TOKEN для авторизации - "api-token", для HTTP запросов или использования в swagger
